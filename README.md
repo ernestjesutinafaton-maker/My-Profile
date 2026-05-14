@@ -1,11 +1,11 @@
 <div align="center">
 
-# [Ton Prénom Nom]
+# [Ernest - AFATON]
 ### Développeur Full-Stack · Créatif Digital · Sysadmin · Freelance
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Voir_mon_travail-0f0f0f?style=for-the-badge)](https://[ton-portfolio].com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[ton-profil])
-[![Email](https://img.shields.io/badge/Email-Travailler_ensemble-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ton@email.com])
+[![Portfolio : En cours ](https://img.shields.io/badge/🌐_Portfolio-Voir_mon_travail-0f0f0f?style=for-the-badge)](https://[ton-portfolio].com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ernest-afaton-1280a4361)
+[![Email](https://img.shields.io/badge/Email-Travailler_ensemble-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[ernestjesutinafaton@gmail.com])
 
 ---
 
@@ -119,7 +119,7 @@ Tu as un projet en tête ? Une mission à confier ? Envie de collaborer ?
 
 **Je réponds à tous les messages sous 24h.**
 
-[![Me contacter](https://img.shields.io/badge/📩_Envoyer_un_message-Démarrons_quelque_chose-0f0f0f?style=for-the-badge)](mailto:[ton@email.com])
+[![Me contacter](https://img.shields.io/badge/📩_Envoyer_un_message-Démarrons_quelque_chose-0f0f0f?style=for-the-badge)](mailto:[ernestjesutinafaton.com])
 
 ---
 
