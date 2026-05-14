@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Ernest - AFATON]
+# Ernest - AFATON
 ### Développeur Full-Stack · Créatif Digital · Sysadmin · Freelance
 
 [![Portfolio : En cours ](https://img.shields.io/badge/🌐_Portfolio-Voir_mon_travail-0f0f0f?style=for-the-badge)](https://[ton-portfolio].com)
@@ -107,7 +107,7 @@ Je prends en main des projets existants et les fais avancer.
 | **[Projet 3](https://github.com/[username]/[repo-3])** | API / Back | [Description courte du projet] | [🔗 Voir](https://[url-projet-3].com) |
 | **[Projet 4](https://github.com/[username]/[repo-4])** | Open-source | [Description courte du projet] | [🔗 Voir](https://[url-projet-4].com) |
 
-👉 **[Voir tous mes projets →](https://github.com/[username]?tab=repositories)**
+👉 **[Voir tous mes projets →](https://github.com/ernestjesutinafaton-maker?tab=repositories)**
 
 ---
 
