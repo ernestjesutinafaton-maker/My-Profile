@@ -102,10 +102,8 @@ Je prends en main des projets existants et les fais avancer.
 
 | Projet | Type | Description | Démo |
 |--------|------|-------------|------|
-| **[Projet 1](https://github.com/[username]/[repo-1])** | Frontend | [Description courte du projet] | [🔗 Voir](https://[url-projet-1].com) |
-| **[Projet 2](https://github.com/[username]/[repo-2])** | Fullstack | [Description courte du projet] | [🔗 Voir](https://[url-projet-2].com) |
-| **[Projet 3](https://github.com/[username]/[repo-3])** | API / Back | [Description courte du projet] | [🔗 Voir](https://[url-projet-3].com) |
-| **[Projet 4](https://github.com/[username]/[repo-4])** | Open-source | [Description courte du projet] | [🔗 Voir](https://[url-projet-4].com) |
+| **[MY-FESTIVAL](https://github.com/ernestjesutinafaton-maker/MY-FESTIVAL)** | Fullstack PHP | Gestion de festival — concerts, activités, chat | [🔗 Voir](https://my-festival.great-site.net) |
+
 
 👉 **[Voir tous mes projets →](https://github.com/ernestjesutinafaton-maker?tab=repositories)**
 
